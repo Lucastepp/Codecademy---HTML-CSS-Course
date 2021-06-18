@@ -1,0 +1,71 @@
+.header {
+    
+    text-align: center;
+  }
+  
+  body {
+    font-family: Georgia;
+    background-image: url('https://images.unsplash.com/photo-1547906982-56341693c43e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=634&q=80');
+  }
+  
+  .about-me  {
+    box-shadow: -10px 0 5px 0px grey, 5px 0 5px 0px grey;
+    color: black;
+    background-color: grey;
+    font-weight: bold;
+    font-size: 22px;
+    opacity: 0.7;
+  }
+  
+  .title {
+    font-weight: bold;
+  }
+  
+  h2 span{
+    color: white;
+    text-shadow: 2px 2px 8px #000000;
+    border-radius: 100px;
+    background: #261e8a;
+    padding: 2px;
+    border: 10px solid transparent;
+    opacity: 0.8;
+    margin-bottom: 10px;
+    
+    
+    
+  }
+  
+  
+  h6 span  {
+    box-shadow: -10px 0 0px 0px white, 10px 0 0px 0px white;
+    border-radius: 100px;
+    background-color: white;
+    font-weight: bold;
+    opacity: 0.7
+  }
+  
+  p,
+  li {
+   font-weight: bold; 
+  }
+
+  h2, p, li, 
+  h6 {
+    text-align: center;
+  }
+
+  .title {
+    text-align: center;
+  }
+
+  h3 span {
+      margin-top: 60px;
+      font-size: 22px;
+      border-radius: 100px;
+      font-weight: bold;
+      box-shadow: -5px 0 0px 0px white, 5px 0 0px 0px white;
+      background-color: white;
+      
+      
+      opacity: 0.8
+  }
